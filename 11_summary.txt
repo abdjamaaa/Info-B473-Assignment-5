@@ -1,0 +1,6 @@
+Total probes: 48803
+Differentially expressed probes: 7
+Higher in tumor: 4
+Higher in normal: 3
+The chromosome graphs show where the differentially expressed genes are found.
+The heatmap and clustermap compare gene expression across the samples.
